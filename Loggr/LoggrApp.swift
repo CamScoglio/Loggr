@@ -11,7 +11,7 @@ import SwiftUI
 struct LoggrApp: App {
     var body: some Scene {
         WindowGroup {
-            WeeklyChartView()
+            LogView()
         }
     }
 }
