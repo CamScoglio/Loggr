@@ -2,19 +2,85 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>UIAppFonts</key>
-	<array>
-		<string>Inter-VariableFont_opsz,wght.ttf</string>
-		<string>Inter-Italic-VariableFont_opsz,wght.ttf</string>
-	</array>
-	<key>UIApplicationSceneManifest</key>
-	<dict>
-		<key>UIApplicationSupportsTabbedSceneCollection</key>
-		<false/>
-		<key>UIApplicationSupportsMultipleScenes</key>
-		<false/>
-		<key>UISceneConfigurations</key>
-		<dict/>
-	</dict>
+    <!-- Camera Usage Description -->
+    <key>NSCameraUsageDescription</key>
+    <string>Loggr needs camera access to capture photos of your homework for question extraction and verification during study sessions.</string>
+    
+    <!-- Bundle Information -->
+    <key>CFBundleExecutable</key>
+    <string>$(EXECUTABLE_NAME)</string>
+    
+    <key>CFBundleIdentifier</key>
+    <string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+    
+    <key>CFBundleName</key>
+    <string>$(PRODUCT_NAME)</string>
+    
+    <key>CFBundleDisplayName</key>
+    <string>Loggr</string>
+    
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    
+    <key>CFBundleShortVersionString</key>
+    <string>1.0</string>
+    
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    
+    <key>CFBundleDevelopmentRegion</key>
+    <string>$(DEVELOPMENT_LANGUAGE)</string>
+    
+    <!-- iOS Version Support -->
+    <key>LSRequiresIPhoneOS</key>
+    <true/>
+    
+    <key>UIRequiredDeviceCapabilities</key>
+    <array>
+        <string>armv7</string>
+    </array>
+    
+    <!-- Interface Orientations -->
+    <key>UISupportedInterfaceOrientations</key>
+    <array>
+        <string>UIInterfaceOrientationPortrait</string>
+        <string>UIInterfaceOrientationLandscapeLeft</string>
+        <string>UIInterfaceOrientationLandscapeRight</string>
+    </array>
+    
+    <key>UISupportedInterfaceOrientations~ipad</key>
+    <array>
+        <string>UIInterfaceOrientationPortrait</string>
+        <string>UIInterfaceOrientationPortraitUpsideDown</string>
+        <string>UIInterfaceOrientationLandscapeLeft</string>
+        <string>UIInterfaceOrientationLandscapeRight</string>
+    </array>
+    
+    <!-- Custom Fonts -->
+    <key>UIAppFonts</key>
+    <array>
+        <string>LeagueSpartan-VariableFont_wght.ttf</string>
+    </array>
+    
+    <!-- Scene Configuration (for SwiftUI apps) -->
+    <key>UISceneStoryboardFile</key>
+    <string>Main</string>
+    
+    
+    
+    <!-- Optional: If you need photo library access -->
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>Loggr needs access to your photo library to save captured homework images.</string>
+
+    <!-- Optional: If you save to photo library -->
+    <key>NSPhotoLibraryAddUsageDescription</key>
+    <string>Loggr needs permission to save homework photos to your photo library.</string>
+    
+    <!-- Status Bar -->
+    <key>UIStatusBarHidden</key>
+    <false/>
+    
+    <key>UIViewControllerBasedStatusBarAppearance</key>
+    <false/>
 </dict>
 </plist>
