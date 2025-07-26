@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>UIAppFonts</key>
+    <array>
+        <string>LeagueSpartanRegular.ttf</string>
+        <string>LeagueSpartanSemiBold.ttf</string>
+        <string>LeagueSpartanBlack.ttf</string>
+        <string>LeagueSpartanThin.ttf</string>
+        <string>LeagueSpartanMedium.ttf</string>
+        <string>LeagueSpartanExtraLight.ttf</string>
+        <string>LeagueSpartanExtraBold.ttf</string>
+        <string>LeagueSpartanBold.ttf</string>
+        <string>LeagueSpartanLight.ttf</string>
+    </array>
+</dict>
+</plist>

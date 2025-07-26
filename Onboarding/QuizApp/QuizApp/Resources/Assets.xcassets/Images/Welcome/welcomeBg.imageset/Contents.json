@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Inauthenticated Welcome Screen.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Inauthenticated Welcome Screen@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Inauthenticated Welcome Screen@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

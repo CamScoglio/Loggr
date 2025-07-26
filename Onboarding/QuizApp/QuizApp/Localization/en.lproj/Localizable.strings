@@ -1,0 +1,213 @@
+/* 
+  Localizable.strings
+  Hers_BMI_Calculator
+
+  Created by Coderbabu on 23/06/25.
+  
+*/
+
+
+// MARK: - Welcome
+
+"welcome_title" = "LOCK IN.";
+"welcome_subtitle" = "Welcome!";
+"welcome_description" = " Let’s start by finding out if \n you have an issue staying \n focused during work.";
+"welcome_button_start_quiz" = "Start Quiz";
+
+// MARK: - LogIn
+ 
+"login_subtitle" = "Join thousands. Become social-media free and \n 10x your productivity on the things you love.";
+"login_email_placeholder" = "Email";
+"login_phone_placeholder" = "Phone";
+"login_password_placeholder" = "Password";
+"login_button_sign_in" = "Sign In";
+"login_no_account" = "No account?";
+"login_sign_up" = "Sign up";
+
+// MARK: - MemberCard
+
+"membercard_lets_go" = "Let’s go!";
+"membercard_welcome_message" = "Welcome to LOCK IN. Here’s your \n personalized membership card.";
+"membercard_worked_daily_since" = "Worked Daily Since:";
+"membercard_daily_average_time" = "Daily Average \nFocused Time:";
+"membercard_hours" = "hours";
+"membercard_build_around_you" = "Now, let’s build the app around you.";
+"membercard_button_next" = "Next";
+
+
+// MARK: - QuizQuestion
+
+"question_title" = "Question #";
+
+"quiz_q1" = "What is the capital of France?";
+"quiz_q2" = "Which language is used for iOS development?";
+"quiz_q3" = "What year did WW2 end?";
+
+"quiz_q1_opt1" = "Berlin";
+"quiz_q1_opt2" = "Madrid";
+"quiz_q1_opt3" = "Paris";
+"quiz_q1_opt4" = "Rome";
+
+"quiz_q2_opt1" = "Kotlin";
+"quiz_q2_opt2" = "Java";
+"quiz_q2_opt3" = "Swift";
+
+"quiz_q3_opt1" = "1940";
+"quiz_q3_opt2" = "1945";
+"quiz_q3_opt3" = "1939";
+"quiz_q3_opt4" = "1950";
+
+// MARK: - Calculation
+
+"calculation_calculating_title" = "Calculating...";
+"calculation_understanding_title" = "Understanding responses…";
+
+// MARK: - Analysis
+
+"analysis_title" = "Analysis complete!";
+"analysis_subtitle" = "We got some news to break to you...";
+"analysis_resultDescription" = "Your responses indicate a clear \n addiction to social media.";
+"analysis_hours" = "hours";
+"analysis_minutes" = "minutes";
+"analysis_dailyScreenTime" = "Your Daily\nScreen Time";
+"analysis_average" = "Average\n ";
+"analysis_multiplier" = "4x";
+"analysis_comparison" = "higher";
+"analysis_addiction" = "addiction";
+"analysis_socialMediaReference" = "to social media";
+"analysis_disclaimer" = "*the result is an indication only, not a medical diagnosis ";
+"analysis_checkSymptoms" = "Check your symptoms";
+"analysis_screenTime_under_30" = "< 30";
+"analysis_screenTime_over_2" = "2+";
+
+
+// MARK: - Symptoms
+
+"symptoms_title" = "Symptoms";
+"symptoms_warning_message" = "Excessive social media can have negative impacts psychologically and physiologically.";
+"symptoms_instruction" = "Select any symptoms below:";
+"symptoms_category_mental" = "Mental";
+"symptoms_category_physical" = "Physical";
+"symptoms_button_reboot" = "Reboot my brain";
+
+"symptom_anxiety" = "Anxiety";
+"symptom_low_self_esteem" = "Low self-esteem";
+"symptom_insomnia" = "Insomnia";
+"symptom_eye_strain" = "Eye strain";
+"symptom_neck_pain" = "Neck pain";
+
+
+// MARK: - Educate
+
+"slide_title_1" = "Social Media is a drug";
+"slide_title_2" = "Social Media destroys focus";
+"slide_title_3" = "Social Media changes your goals.";
+"slide_title_4" = "Feeling unsuccessful?";
+"slide_title_5" = "Path to recovery";
+
+"slide_subtitle_1" = "Social Media releases a **chemical** in the \n brain called **dopamine**. This chemical \n makes you feel **good** – it’s why you get \n **stuck scrolling** for **hours.**";
+
+"slide_subtitle_2" = "Dopamine addiction causes you to need \n **progressively more** to get the **same \n good feeling.** This causes you to need \n social media more often – invading \n times when **focus is needed.**";
+
+"slide_subtitle_3" = "FOMO from social media causes **shiny \n object syndrome** – always switching \n projects and **never getting anything \n of value done.**";
+
+"slide_subtitle_4" = "Social media addicts frequently report \n feelings of **inadequacy, low-self \n confidence**, and **unmotivated.**";
+
+"slide_subtitle_5" = "Recovery is possible. By abstaining from \n social media during work, **you can take \n back your focus.** Along with it will \n come **self-confidence, consistent \n results**, and **real success.**";
+
+// MARK: - Solution
+
+"inspirational_title" = "inspirational graphic";
+
+"solution_slide_title_1" = "Fix Distracted Work";
+"solution_slide_title_2" = "Rewire your brain";
+"solution_slide_title_3" = "Stay accountable";
+"solution_slide_title_4" = "Build and obsess over work";
+"solution_slide_title_5" = "Level up your life";
+
+
+"solution_slide_subtitle_1" = "Backed by world-class research from \n top universities, LOCK IN. is a class- \n leading protocol to reclaim your focus \n and drive consistent personal results.";
+
+"solution_slide_subtitle_2" = "Science-backed exercises help you rewire \n your brain, **rebuild** your dopamine \n receptors, and **avoid setbacks**.";
+
+"solution_slide_subtitle_3" = "Join friends and compete! The LOCK IN.\n Leaderboard encourages you to **stay \n focused longer** and keep you and your \n **friends accountable**.";
+
+"solution_slide_subtitle_4" = "Grow your **streak**, reveal work habits,\n and **watch your progress** over time.";
+
+"solution_slide_subtitle_5" = "Your **newfound focus** has immense \n **psychological** and **physical benefits**. \n Grow **happier, healthier,** and **stronger**.";
+
+// MARK: - Essentials
+
+"lOCK_IN_Essentials" = "LOCK IN Essentials";
+"graph_dec" = "**LOCK IN**. helps you stay focused and \ncomplete important work 74% faster \nthan your current strategies.";
+
+"essentials_name_huberman" = "Andrew Huberman, Ph.D";
+"essentials_role_huberman" = "Stanford School of Medicine";
+"essentials_quote_title_huberman" = "Social Media Damages Dopamine Receptors";
+"essentials_quote_body_huberman" = "How much something stimulates you depends on your previous baseline dopamine levels. Social media raises those levels drastically, causing things afterward to feel mundane, boring, and unmotivating.";
+
+"essentials_name_physicist" = "";
+"essentials_role_physicist" = "Award Winning Physicist";
+"essentials_quote_title_physicist" = "Good Work Requires Concentration";
+"essentials_quote_body_physicist" = "To do high, real good work you do need absolutely solid lengths of time... it needs a lot of concentration.";
+
+"essentials_name_james_clear" = "James Clear";
+"essentials_role_james_clear" = "Author of Atomic Habits";
+"essentials_quote_title_james_clear" = "Success Requires Elimination";
+"essentials_quote_body_james_clear" = "Focus starts with elimination, improves with concentration, and compounds with continuation.";
+
+"essentials_name_cameron" = "Cameron";
+"essentials_role_cameron" = "Customer";
+"essentials_quote_title_cameron" = "I’ve never been so productive";
+"essentials_quote_body_cameron" = "Stopping myself from being able to access distraction – and focusing 100% on my work – has allowed me to achieve in one day what I usually achieved in a week.";
+
+"continue_label" = "Continue";
+
+// MARK: - ChooseGoal
+
+"goal_improve_focus" = "Improve focus";
+"goal_improved_self_confidence" = "Improved self-confidence";
+"goal_more_energy" = "More energy and motivation";
+"goal_self_control" = "Self-control";
+"goal_mental_clarity" = "Mental clarity";
+"goal_successful_projects" = "Successful projects";
+"goal_enjoyment_work_life" = "Enjoyment of work and life";
+
+"choose_goals_title" = "Choose your goals";
+
+"choose_goals_description" = "Select your goals you wish to track \nduring your rewire.";
+
+"track_goals_button_title" = "Track these goals";
+
+
+// MARK: - Rating
+
+"give_us_rating" = "Give us a rating";
+"app_description" = "This app was designed for \npeople like you.";
+"users_count" = "100+ users";
+
+"review_name_pj" = "PJ Scoglio";
+"review_name_baljeet" = "Baljeet Singh";
+
+"review_message_pj" = "Since using LOCK IN., my friends have been asking me how I get my work done so fast. Now they just think I’m a genius, somehow studying faster and more efficiently than they do. I do… but it’s not because I’m a genius. It’s because I use this app 😂.";
+
+"review_message_baljeet" = "Ever since I started competing with my friends to see how long and hard each of us could work, two things happened: 1. I hit my first $100k month, and 2. I’ve enjoyed working more than I ever have before. LOCK IN. literally changed my life, would highly recommend";
+
+
+// MARK: - Sales
+
+"sales_dec" = "Based on your answers,\n we’ve designed a plan to help you achieve that.";
+
+"sales_name_plan_title" = "[Name], we made a custom \nplan.";
+"sales_productivity_description" = "You will have the focus to work \n**[current hours in a row forumla x \n2]** without getting distracted by \nsocial media by:";
+"sales_date_tag" = "Today + 1 month";
+"sales_headline" = "2x productivity in 30 days.";
+"sales_subheadline" = "Your most focused self.";
+"sales_lock_in_text" = "LOCK IN.";
+
+
+"sales_unlock_title" = "Unlock LOCK IN. to \nreach your goals faster.";
+
+"sales_features_description" = "Get unlimited access to LOCK IN. including: \nCustom App Blocking, LOCK IN. Focus Timer, \nLOCK IN. Leaderboard, LOCK IN. Data \nAnalysis, Focus Accountability, Streak Tracking, ";
+
+"sales_focused_self" = "Your most focused self.";
